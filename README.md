@@ -47,8 +47,12 @@ Before moving forward, please make a save point prior to importing rosters!
 ## Team Credits
 
 Game Patch Mods : Antdroid with help from JDHalfrack
+
 Uniform Textures : BUBeavers92 & BaltimoreRavens
+
 Accessories : BUBeavers92 & xflamesxofxhope
+
 Menu UI & Logos: Antdroid
+
 Rosters : Antdroid, ported from RogerJinx Madden 08 PC Rosters from FootballIdiot.com
 

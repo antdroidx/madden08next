@@ -19,20 +19,32 @@ This mod creates a brand new ISO and experience right out of the box. No more ne
 **This updates the original game with:**
 
 Updated Rosters built-in (thanks to RogerJinx of FootballIdiot.com)
+
 All Game Modes working with 2021 rosters
+
 Updated Team Names
+
 Updated Coaches
+
 Updated Stadium Names
+
 Uniform Patches for Texture Mods
+
 New First/Last Names Generation Database - Not included yet
+
 Compatible with NCAA Football 06 exported draft classes and Race for Heisman saves!
+
 
 ## Textures
 
 Updated Uniforms and Alternates
+
 Updated Gears including team and generic gloves
+
 Updated Menu UI and Icons
+
 Update Fields, Grass, Stadium decor, and more!
+
 Update Logos
 
 

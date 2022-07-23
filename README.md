@@ -52,7 +52,7 @@ Uniform Textures : BUBeavers92 & BaltimoreRavens
 
 Accessories : BUBeavers92 & xflamesxofxhope
 
-Menu UI & Logos: Antdroid
+Menu UI & Logos: Antdroid, with logo by RobotDebris
 
 Rosters : Antdroid, ported from RogerJinx Madden 08 PC Rosters from FootballIdiot.com
 

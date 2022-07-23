@@ -60,7 +60,7 @@ Before moving forward, please make a save point prior to importing rosters!
 
 Game Patch Mods : Antdroid with help from JDHalfrack
 
-Uniform Textures : BUBeavers92 & BaltimoreRavens
+Uniform Textures : BUBeavers92 & BaltimoreRavens ported over by Antdroid
 
 Accessories : BUBeavers92 & xflamesxofxhope
 

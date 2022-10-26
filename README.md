@@ -52,10 +52,6 @@ Update Logos
 
 Since this is a beta and we've only done limited testing, bugs may occur! Please let us know when you get them!
 
-For users using NCAA Football 06 with 2021 rosters, it seems like the FIRST YEAR draft class may lead to game freezing or crashing. I've tried this on both Madden 06 and Madden 08, so it is not a patch problem but a roster problem that I can't seem to trace the issue down to. Other draft classes in Year 2+ work just fine. Hopefully 2022-23 NCAA rosters do not pose this problem.
-
-Before moving forward, please make a save point prior to importing rosters!
-
 ## Team Credits
 
 Game Patch Mods : Antdroid with help from JDHalfrack
